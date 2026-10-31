@@ -2,9 +2,9 @@
 # Replace the tutor's hard-coded values with yours, in one go.
 # Run ONCE from the repo root, BEFORE your first commit/push.
 #
-#   DOMAIN=ascloud.space ACCOUNT_ID=123456789012 \
-#   GH_OWNER=your-github-user GH_REPO=banking_application_eks \
-#   ACME_EMAIL=you@example.com ./scripts/customize.sh
+#   DOMAIN=ascloud.space ACCOUNT_ID=463423328685 \
+#   GH_OWNER=Akhilsabbisetty GH_REPO=banking_application_eks \
+#   ACME_EMAIL=sabbsiettyakhil2414@gmail.com ./scripts/customize.sh
 set -euo pipefail
 
 : "${DOMAIN:?set DOMAIN, e.g. ascloud.space}"
